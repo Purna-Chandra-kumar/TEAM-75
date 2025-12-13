@@ -9,11 +9,15 @@ discover nearby farms, access real-time market prices, and make informed purchas
 AgroMart is more than just a marketplace—it’s a solution to longstanding challenges in agriculture, including price exploitation, limited market access. 
 By leveraging technology, AgroMart empowers farmers, enhances consumer trust, and creates a sustainable, transparent, and profitable agricultural ecosystem for all.
 
- Problem Statement:
-Farmers in India and across the world often face exploitation from intermediaries who purchase their produce at very low prices and later resell it at much higher rates in the market. 
+Problem Statement:
+
+     Farmers in India and across the world often face exploitation from intermediaries who purchase their produce at very low prices and later resell it at much higher rates in the market. 
 This unfair practice leaves farmers with minimal earnings, while consumers are forced to pay inflated prices for the same goods.
 Challenges in the current agricultural supply chain include:
-1.Lack of Price Transparency: Farmers often have no access to real-time market prices, and consumers have limited visibility on fair product costs. This creates an information gap that benefits middlemen the most.
+
+
+1.Lack of Price Transparency: Farmers often have no access to real-time market prices, and consumers have limited visibility on fair product costs.This creates an information gap that benefits middlemen the most.
+
 2.Limited Market Access: Small-scale and marginal farmers struggle to sell directly to consumers or retailers due to logistical, infrastructural, and technological constraints.
 3.Perishability of Crops: Many agricultural products are highly perishable. Without proper storage and timely sales, farmers are forced to sell at distress prices, leading to financial losses.
 4.Consumer Concerns: Consumers often lack assurance regarding the freshness, quality, and authenticity of the produce they purchase.
@@ -32,3 +36,27 @@ Features and advantages include:
 
 AgroMart aims to create a fair, efficient, and sustainable agricultural ecosystem, where farmers are empowered, consumers access fresh and affordable produce, and dependence on intermediaries is minimized.
 By leveraging technology, AgroMart strives to make the agricultural marketplace transparent, equitable, and profitable for all stakeholders.
+
+
+Sure! Here’s a slightly **expanded version** of your tech stack with a bit more context for each component:
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* **React.js** – A popular JavaScript library for building interactive and reusable UI components.
+* **Vite** – A lightning-fast frontend build tool and development server that enhances React performance.
+* **Tailwind CSS** – A utility-first CSS framework that allows rapid and responsive UI styling with minimal custom CSS.
+
+### Backend
+
+* **Supabase** – Provides backend services like authentication, real-time database, and APIs without managing a server.
+* **Node.js** – JavaScript runtime for server-side code and building scalable backend logic.
+
+### Infrastructure / Database
+
+* **Supabase Hosting** – Cloud hosting solution for backend and database, fully integrated with Supabase services.
+* **PostgreSQL** – Reliable and powerful relational database for storing structured data.
+* **GitHub** – Version control platform to manage codebase, track changes, and collaborate effectively.
