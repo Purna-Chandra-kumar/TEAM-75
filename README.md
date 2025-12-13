@@ -9,6 +9,10 @@ AgroMart is a modern digital marketplace designed to **bridge the gap between fa
 With AgroMart, farmers can **manage and showcase their farm produce**, list a wide variety of vegetables and fruits, and share essential details like quantity, pricing, and location. Consumers can easily **discover nearby farms**, access real-time market prices, and make informed purchases, all while enjoying the confidence of **freshness and authenticity**.
 
 AgroMart is more than just a marketplace—it’s a solution to longstanding challenges in agriculture, including **price exploitation, limited market access, and crop perishability**. By leveraging technology, AgroMart empowers farmers, enhances consumer trust, and creates a **sustainable, transparent, and profitable agricultural ecosystem** for all.
+AgroMart integrates Generative AI to enhance farmer accessibility, pricing intelligence,and user experience. The AI assistant enables natural language interaction,
+multilingual support, and smart insights by analyzing market data and user queries.This transforms AgroMart from a traditional marketplace into an intelligent,
+AI-driven agricultural ecosystem.
+
 
 ---
 
